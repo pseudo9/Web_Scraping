@@ -5386,3 +5386,54 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.113:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.113:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:43] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:43] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphonr12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.'}, {'Product': 'iphonr12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful product'}, {'Product': 'iphonr12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphonr12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphonr12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495'}, {'Product': 'iphonr12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphonr12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}, {'Product': 'iphonr12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super'}, {'Product': 'iphonr12', 'Name': 'Lenlen Yashu', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Love it.'}, {'Product': 'iphonr12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love it'}, {'Product': 'iphonr12', 'Name': 'Najir  Hussain ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera quality…just love it'}]
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:38:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi10', 'Name': 'Ravi Kumar', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Nice camera'}, {'Product': 'redmi10', 'Name': 'Rupam Dhara', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good phone in this price range, battery backup good, camera ok ok, and performance very very good \U0001f525 I am mi love And very fast delivery Flipkart, thanks'}, {'Product': 'redmi10', 'Name': 'Chitra Awasthi', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Excellent mobile \U0001f970'}, {'Product': 'redmi10', 'Name': 'Deepti Sharma', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just outstanding in the affordable price.\u270c\U0001f3fb\U0001f63b'}, {'Product': 'redmi10', 'Name': 'kripasindhu das', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Original products and good services'}, {'Product': 'redmi10', 'Name': 'Chaithra  K g', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Good mobile camera \U0001f44d I like mobile ,low price'}, {'Product': 'redmi10', 'Name': 'Manali  chakrabarti ', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Camera is very good ,good performance, overall at this price point one of the best.'}, {'Product': 'redmi10', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Very good\U0001f44d'}, {'Product': 'redmi10', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Good quality but display size very long'}, {'Product': 'redmi10', 'Name': 'Anil Payghan', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best mobile under 10000Review after 7 days of using Best mobile,battery is very powerful.Camera is awesome..And this last one is just editingSuch a cute baby'}, {'Product': 'redmi10', 'Name': 'Anil Payghan', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best mobile under 10000Review after 7 days of using Best mobile,battery is very powerful.Camera is awesome..And this last one is just editingSuch a cute baby'}]
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 16:39:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.113:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.'}, {'Product': 'iphone12', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful product'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphone12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}, {'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super'}, {'Product': 'iphone12', 'Name': 'Lenlen Yashu', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Love it.'}, {'Product': 'iphone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love it'}, {'Product': 'iphone12', 'Name': 'Najir  Hussain ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera quality…just love it'}]
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.29.113 - - [25/Feb/2024 22:38:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
